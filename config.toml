@@ -17,11 +17,11 @@ googleAnalytics = "Your Google Analytics tracking id"
   linkedin = "marat-akzhigitov"
   # Disqus shortname
   disqus = ""
-  author = "Your Name"
+  author = "Marat Akzhigitov"
   authorwebsite = "example.com"
   avatar = "/images/avatar.jpg"
   #contact = "/maraticus@gmail.com"
-  bio = "Разработчик"
+  bio = "Team Lead & Developer"
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.
