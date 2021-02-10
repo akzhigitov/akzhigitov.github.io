@@ -1,11 +1,14 @@
 ---
-date: 28.10.2020
-linktitle: Запуск Java в Kubernetes. Dockerfile
+date: 2020-10-28
+subtitle: Как описать Dockerfile для запуска Java в Kubernetes
 title: Запуск Java в Kubernetes. Dockerfile
-weight: 10
+tags:
+- java
+- k8s
 ---
 
 Для запуска любого приложения в Kubernetes требуется завернуть это приложение в контейнер.
+<!--more-->
 Для этого надо создать в корне репозитория Dockefile.
 
 # Подготовка Dockerfile

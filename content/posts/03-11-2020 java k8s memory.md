@@ -1,10 +1,12 @@
 ---
-date: 28.10.2020
-linktitle: Запуск java в Kubernetes. Ограничение по памяти
+date: 2020-10-27
+subtitle: Запуск java в Kubernetes. Ограничение по памяти
 title: Запуск java в Kubernetes. Ограничение по памяти
-weight: 10
+tags:
+- java
+- k8s
 ---
-
+<!--more-->
 # Флаги Java для запуска в Kubernetes с ограничением памяти
 
 ## Учет лимитов на памяти
